@@ -59,7 +59,7 @@
 ## 💡 结课与考核要求 (End of Semester)
 
 CO-OP 作为一门在读课程（0 学分/非学分），需要获得 `Satisfactory` 成绩以避免影响后续答辩与毕业：
-- **Work/Technical Report**：学期末需向职业中心提交一份总结报告。
+- **Work/Technical Report**：学期末需向在canvas提交一份总结报告。
 
 ---
 [CPT Application Example](CPTexample.png)
