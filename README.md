@@ -25,7 +25,7 @@
 
 ## 🚀 三步申请流程 (Timeline)
 
-### Step 1: 雇主与学术导师签字阶段 (线下/邮件协商)（https://www.uh.edu/issso/students/f-1/employment/）
+### Step 1: 雇主与学术导师签字阶段 (线下/邮件协商) https://www.uh.edu/issso/students/f-1/employment/
 必须合并为一个单独的 PDF
 1. **获取 Offer Letter**：确保 HR 提供的 Offer 满足上述所有合规要求。
 2. **雇主签字**：将 ISSSO CPT 表格的 **Step 3 (Employer Statement)** 交由公司 HR 或 Supervisor 签字。
@@ -35,14 +35,14 @@
    - 导师需签署 CPT 表格
 4. **发给Academic Advisor签字**
 
-### Step 2: CO-OP 申请 (线上递交)(https://career.egr.uh.edu/students/coop/uh-co-op-electronic-submission-process-international-student)
+### Step 2: CO-OP 申请 (线上递交) https://career.egr.uh.edu/students/coop/uh-co-op-electronic-submission-process-international-student
 > **⛔ 严重警告**：材料递交有严格的顺序与格式要求，必须合并为一个单独的 PDF，否则直接被拒！
 > **合规的 Offer Letter**（需包含：公司抬头、职位、具体职责、每周工时、工作地点、准确的起止日期）。
 2. **发送邮件**：将 PDF 发送至 Engineering Career Center: `ecareers@central.uh.edu`
 3. **填报在线系统**：发送邮件后，立即访问 [UH CO-OP Application Portal](https://career.egr.uh.edu/students/coop/uh-co-op-electronic-submission-process-international-student) 提交电子申请。
 4. **等待课程注册**：审批通过后，CO-OP 办公室会在系统中协助 Late Add 注册 CO-OP 实习课程（将产生 $215 的注册费，可保留收据向公司申请报销）。
 
-### Step 3: ISSSO 最终审批与 I-20 签发 (Terra Dotta)(https://www.uh.edu/issso/services/terradotta/)
+### Step 3: ISSSO 最终审批与 I-20 签发 (Terra Dotta) https://www.uh.edu/issso/services/terradotta/
 *处理周期：5-7 个工作日*
 
 在系统确认已成功注册 CO-OP 课程并拿到职业中心的批准后：
