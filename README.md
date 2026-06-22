@@ -62,4 +62,6 @@ CO-OP 作为一门在读课程（0 学分/非学分），需要获得 `Satisfact
 - **Work/Technical Report**：学期末需向职业中心提交一份总结报告。
 
 ---
+[CPT Application Example](CPTexample.png)
+
 *Disclaimer: 本指南基于休斯顿大学2026 ISSSO 及 Engineering Career Center 政策整理。移民政策及学校行政流程可能随时变动，递交申请前请务必仔细查阅 [ISSSO 官方网站](https://www.uh.edu/issso/students/f-1/employment/) 上的最新文件。*
