@@ -26,8 +26,8 @@
 ## 🚀 三步申请流程 (Timeline)
 
 ### Step 1: 雇主与学术导师签字阶段 (线下/邮件协商) (https://www.uh.edu/issso/students/f-1/employment/)
-必须合并为一个单独的 PDF
-1. **获取 Offer Letter**：确保 HR 提供的 Offer 满足上述所有合规要求。
+
+1. **获取 Offer Letter**：确保 HR 提供的 Offer 满足上述所有合规要求。与CPT表格合并为一个单独的 PDF
 2. **雇主签字**：将 ISSSO CPT 表格的 **Step 3 (Employer Statement)** 交由公司 HR 或 Supervisor 签字。
 3. **导师审批 (Advisor / PI)**：
    - 与 Prof 沟通实习。
